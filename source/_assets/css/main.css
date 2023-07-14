@@ -1,0 +1,7 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* font-montserrat font-jost */
+.font-primary{ font-family: 'Montserrat', 'sans-serif';}
+.font-secondary{ font-family: 'Rajdhani', 'sans-serif';}
